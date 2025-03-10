@@ -9,6 +9,10 @@
   "categories": [
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carlosdtn/ezvg"
+  },
   "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {
